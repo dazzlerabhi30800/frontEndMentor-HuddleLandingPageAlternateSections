@@ -4,7 +4,7 @@ function Footer() {
   return (
     <footer>
       <div className="build--wrapper">
-        <h4>Ready to Build your Community</h4>
+        <h3>Ready to Build your Community</h3>
         <button className="ready">Get Started For Free</button>
       </div>
       <div className="footer--wrapper">
