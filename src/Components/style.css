@@ -162,7 +162,7 @@ community--wrapper .text--wrapper {
     order: 2;
 }
 
-.feature--card .text--wrapper h3 {
+.feature--card .text--wrapper h2 {
     margin-top: auto;
     margin-bottom: auto;
     font-size: 1.8rem;
@@ -228,7 +228,7 @@ footer {
     box-shadow: 1px 1px 10px 3px hsla(209, 11%, 55%, 0.123);
 }
 
-.build--wrapper h4 {
+.build--wrapper h3 {
     margin-top: auto;
     margin-bottom: auto;
     color: var(--Very-Dark-Cyan);
